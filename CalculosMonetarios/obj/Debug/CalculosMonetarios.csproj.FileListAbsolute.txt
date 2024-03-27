@@ -1,0 +1,8 @@
+C:\Users\x302877\Desktop\LaboratoryDevelopment\CalculosMonetarios\CalculosMonetarios\obj\Debug\CalculosMonetarios.csproj.AssemblyReference.cache
+C:\Users\x302877\Desktop\LaboratoryDevelopment\CalculosMonetarios\CalculosMonetarios\obj\Debug\CalculosMonetarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\x302877\Desktop\LaboratoryDevelopment\CalculosMonetarios\CalculosMonetarios\obj\Debug\CalculosMonetarios.csproj.CoreCompileInputs.cache
+C:\Users\x302877\Desktop\LaboratoryDevelopment\CalculosMonetarios\CalculosMonetarios\bin\Debug\CalculosMonetarios.exe.config
+C:\Users\x302877\Desktop\LaboratoryDevelopment\CalculosMonetarios\CalculosMonetarios\bin\Debug\CalculosMonetarios.exe
+C:\Users\x302877\Desktop\LaboratoryDevelopment\CalculosMonetarios\CalculosMonetarios\bin\Debug\CalculosMonetarios.pdb
+C:\Users\x302877\Desktop\LaboratoryDevelopment\CalculosMonetarios\CalculosMonetarios\obj\Debug\CalculosMonetarios.exe
+C:\Users\x302877\Desktop\LaboratoryDevelopment\CalculosMonetarios\CalculosMonetarios\obj\Debug\CalculosMonetarios.pdb
